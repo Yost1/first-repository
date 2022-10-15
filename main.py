@@ -1,2 +1,3 @@
 print('hello')
-name = int(input())
+name = input()
+name2 = input()
